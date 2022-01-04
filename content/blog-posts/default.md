@@ -3,7 +3,7 @@ author = ""
 date = ""
 draft = true
 hero = ""
-title = "default"
+title = "Growth"
 type = "blog"
 
 +++
